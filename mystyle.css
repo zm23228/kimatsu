@@ -1,9 +1,7 @@
-
+table{border-collapse: collapse;}
 h1{ color:#4682b4;}
-th,td{border:dashed thick black;}
+th,td{border:dashed thick black;
+padding: 6px 10px;}
+
 th.important{ color:blue;}
-
-.a-page table {border-collapse: collapse;}
-
-.a-page th, .a-page td {border: thick dashed black;}
 
